@@ -1,5 +1,6 @@
 ## 这个仓库对你来说没什么用
-**失误了，fork的仓库不能修改可见性🤯😭😭，赵琳（初二同班同学）你要是看到这个仓库就当作无视罢**
+（我们要讲诚信，一定要说明这个仓库干什么用的🐔🐴🐍💪）<br>
+**失误了，fork的仓库不能修改可见性🤯😭😭，赵琳（初二同班同学）你要是看到这个仓库就当作空气好了**<br>
 我想用termux的python的jmcomic库下点小星野的本子（毕竟大叔太可爱了），结果发现家里网络连任何一个jm的域名都连不上🤯还好 JMComic-Crawler-Python 的 Readthedocs文档里面有写怎么用 Github Action 下本子。wow我大脑一想，Action大手子可以连jm哇！然后我家网可以练kkgithub的镜像站哇<br>
 Action: 诶🤓<br>
 KKGithub：诶🤓<br>
